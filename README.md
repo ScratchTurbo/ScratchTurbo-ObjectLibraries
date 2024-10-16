@@ -1,5 +1,5 @@
-# PenguinMod-ObjectLibraries
-The repo containing all new Public Domain costumes, sounds and others in PenguinMod's libraries.
+# ScratchTurbo-ObjectLibraries
+The repo containing all new Public Domain costumes, sounds and others in ScratchTurbo's libraries.
 
 ## Scripts folder
 The scripts folder contains nodejs scripts used for other stuff.
